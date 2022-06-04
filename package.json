@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc && vite build && echo xn--h1aaqdqnx.xn--p1ai > docs/CNAME",
     "preview": "vite preview"
   },
   "devDependencies": {
